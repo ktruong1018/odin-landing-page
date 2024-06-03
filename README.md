@@ -1,2 +1,2 @@
-# odin-landing-page
-Odin Project Landing Page Assignment
+# Project: Landing Page
+Odin Project Landing Page Assignment, demonstrating usage of CSS
